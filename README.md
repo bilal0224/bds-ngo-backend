@@ -4,6 +4,7 @@ https://bds-ngo-backend-production.up.railway.app/
 
 locally:
 
+npm i
 npm start
 
 .env variables:
